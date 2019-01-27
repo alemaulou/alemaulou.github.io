@@ -1,5 +1,5 @@
 body {
-  color: #4a4a4a;
+  color: #000;
   font-family: 'Inconsolata', monospace;
 }
 
@@ -24,7 +24,7 @@ h2 {
 
 
 header {
-  background-color: #F2F9FC;
+  background-color: #fff;
   /* background-image: url("../img/rainbow.png"); */
   background-position: center center;
   background-repeat: no-repeat;
@@ -78,9 +78,9 @@ header img {
 }
 
 .highlight {
-    background-color: #fa4768;
+    background-color: #000;
     color: #FFF;
-    background-image: linear-gradient(to right, #fa4768 0%, #fa4768 100%);
+    background-image: linear-gradient(to right, #000 0%, #000 100%);
     padding: 10px 10px;
 }
 
