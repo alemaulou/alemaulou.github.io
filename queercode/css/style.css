@@ -6,7 +6,7 @@ body {
 h1 {
   color: #000000;
   text-transform: lowercase;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 @media (min-width: 576px) {
