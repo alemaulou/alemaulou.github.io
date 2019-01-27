@@ -95,7 +95,7 @@ header img {
 }
 
 .second-section p {
-  color: #9DA2A6;
+  color: #000;
 }
 
 .navbar-brand img {
@@ -126,6 +126,10 @@ header img {
 
 .third-section {
   background-color: #fff;
+}
+
+.third-section h3 {
+  padding-bottom: 30px;
 }
 
 
