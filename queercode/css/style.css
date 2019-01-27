@@ -9,6 +9,12 @@ h1 {
   font-size: 2rem;
 }
 
+h3 {
+  color: #000000;
+  text-transform: lowercase;
+  font-size: 2rem;
+}
+
 @media (min-width: 576px) {
   h1 {
     font-size: 5rem;
