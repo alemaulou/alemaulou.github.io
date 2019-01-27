@@ -139,6 +139,10 @@ header img {
   margin-top: 35px;
 }
 
+.third-section h3 {
+  padding-bottom: 20px;
+}
+
 @media (min-width: 768px) {
   .third-section img {
     margin-top: 0;
