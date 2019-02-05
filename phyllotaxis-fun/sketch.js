@@ -13,7 +13,7 @@ function setup() {
   centerCanvas();
   angleMode(DEGREES);
   colorMode(HSB);
-  background("#white");
+  background("black");
 }
 
 function windowResized() {
